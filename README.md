@@ -1,6 +1,7 @@
 # 牛静静的作品集
 
 <style>
+    .container {max-width: 980px;width: auto;padding: 20px 0;}
     img {box-shadow: 0 0 3px rgba(0,0,0,.3);}
 </style>
 
