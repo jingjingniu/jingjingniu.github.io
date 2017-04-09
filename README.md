@@ -4,7 +4,7 @@
     img {box-shadow: 0 0 3px rgba(0,0,0,.3);}
 </style>
 
-[下载PDF版](pdf/jingjingniu.pdf)
+[下载PDF版](https://github.com/jingjingniu/jingjingniu.github.io/raw/master/pdf/jingjingniu.pdf)
 
 <img src="images/01.jpg" alt="">
 
