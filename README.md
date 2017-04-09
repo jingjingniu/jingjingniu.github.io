@@ -1,6 +1,10 @@
 # 牛静静的作品集
 
-[https://jingjingniu.github.io](https://jingjingniu.github.io)
+<style>
+    img {box-shadow: 0 0 3px rgba(0,0,0,.3);}
+</style>
+
+[下载PDF版](pdf/jingjingniu.pdf)
 
 <img src="images/01.jpg" alt="">
 
